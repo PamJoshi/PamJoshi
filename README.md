@@ -6,7 +6,7 @@ Currently grinding: **Android**, **Linux internals**, **automation scripts**.
 
 🤝 Open to collabs, side-projects, PRs & bug hunting missions.  
 💻 Stack comfort zone: **Java stack | Android | Linux**  
-😆 Daily challenge: Surviving Arch on Wayland & KDE like a true warrior.
+😆 Daily challenge: Surviving Arch on Wayland & KDE.
 
 
 ## 🌐 Socials:
