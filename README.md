@@ -1,11 +1,11 @@
 ## 👋 Param Joshi  
-> Java stack-driven. Android-curious. Linux-powered (Arch btw 🐧).
+> Full stack-driven. Android-curious. Linux-powered (Arch btw 🐧).
 
 I code → tweak → break → fix → repeat — the cycle of growth.  
 Currently grinding: **Android**, **Linux internals**, **automation scripts**.  
 
 🤝 Open to collabs, side-projects, PRs & bug hunting missions.  
-💻 Stack comfort zone: **Java stack | Android | Linux**  
+💻 Stack comfort zone: **Full stack | Android | Linux**  
 😆 Daily challenge: Surviving Arch on Wayland & KDE.
 
 
